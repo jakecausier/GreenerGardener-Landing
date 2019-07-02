@@ -35,7 +35,7 @@
 			</div>
 
 			<div class="text contact">
-				<h2>For a friendly talk, please call</h2>
+				<h2>For a friendly chat, please call</h2>
 				<p class="phone"><a href="tel:01323730237">01323 730237</a> <span class="sep"></span> <a href="tel:07710 363169">07710 363169</a></p>
 				<p>or e-mail <a href="mailto:tim.dicksee@thegreenergardener.co.uk">tim.dicksee@thegreenergardener.co.uk</a></p>
 		</div>
